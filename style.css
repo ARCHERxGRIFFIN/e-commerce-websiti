@@ -1,0 +1,94 @@
+#nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    z-index: +1000000;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#nav-bar-icon {
+    height: 8.5vh;
+    position: relative;
+    top: 2.05;
+    left: .3%;
+}
+#nav-bar-btn-one {
+    float: right;
+    font-family: "Mukta";
+    font-weight: bolder;
+    position: relative;
+    color: white;
+    cursor: pointer;
+}
+#kids-summer-nightwear-icon {
+    height: 50vh;
+    width: 50vh;
+    position: absolute;
+    top: 15vh;
+    left: 3%;
+    border: 3px solid black;
+    border-bottom: none;
+}
+#searchbar {
+ position: relative;
+ left: 10px;
+}
+#kids-summer-nightwear-text {
+    border: 3px solid black;
+    border-top: none;
+    position: absolute;
+    top: 65vh;
+    left: 3%;
+    width: 50vh;
+    text-align: center;
+    height: 20vh;
+    font-size: 20px;
+    font-weight: bold;
+}
+#href-in-kids-summer-nightwear-text {
+    font-size: 15px;
+    top: 2vh;
+}
+#blablablabla {
+    font-size: 15px;
+}
+#cart {
+    position: absolute;
+    top: 90vh;
+    left: 3%;
+}
+h4, h5 {
+    margin: 13px;
+    position: relative;
+    left: -5%;
+}
+#numberinput {
+    width: 60%;
+}
+#win-lap-icon {
+    height: 50vh;
+    width: 70vh;
+    margin-left: 60%;
+    margin-top: 15vh;
+    border: 3px solid black;
+    border-bottom: transparent;
+    background-image: url("https://www.91-cdn.com/hub/wp-content/uploads/2021/03/asus-ROG-India-featured.jpg");
+    background-size: 90vh 50vh;
+    background-position: center;
+}
+#win-lap-text {
+    border: 3px solid black;
+    border-top: none;
+    position: absolute;
+    top: 65vh;
+    left: 60%;
+    width: 70vh;
+    text-align: center;
+    height: 20vh;
+    font-size: 20px;
+    font-weight: bold;
+}
